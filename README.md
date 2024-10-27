@@ -12,4 +12,4 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 
 
-[^1]: This repository is the final assignment for the [Getting Started with Git and Github](https://www.coursera.org/learn/getting-started-with-git-and-github) of [IBM](https://www.coursera.org/partners/ibm-skills-network)
+[^1]: This repository is the 1st part of the final assignment for the [Getting Started with Git and Github](https://www.coursera.org/learn/getting-started-with-git-and-github) of [IBM](https://www.coursera.org/partners/ibm-skills-network)
